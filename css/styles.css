@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-color: rgb(183, 185, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.center {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+
+}
+
+button {
+    background-color: antiquewhite;
+    padding: 2%;
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    color:red;
+
+}
+
+.center {
+    width: 500px;
+    border-style:double;
+    border-color: black;
+    border-width: 5px;
+    border-color: black;
+    background-color: pink;
+    padding-right: 25px;
+    border-radius: 50px;
+
+}
+
+li + li {
+    margin: 5px;
+
+}
+
+img {
+    width: 700px;
+    height: auto;
+    border-radius: 50px;
+}
